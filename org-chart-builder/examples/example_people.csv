@@ -1,0 +1,18 @@
+Name,Title,Manager,Department,Highlight
+Jordan Blake,Head of Security,,Security,yes
+Sam Rivera,Sr Security Engineer,Jordan Blake,Security,
+Taylor Brooks,Sr Staff Security & Governance,Jordan Blake,Security,
+Morgan Chen,Staff Security Engineer,Jordan Blake,Security,yes
+Riley Adams,Digital Asset Security Lead,Jordan Blake,Security,
+Casey Patel,Staff Product Security,Sam Rivera,Security,
+Open HC,Sr Application Security Eng,Sam Rivera,Security,
+Drew Kim,Head of Information Security,Taylor Brooks,Security,
+Open HC,Risk & Control Manager,Taylor Brooks,Security,
+Jamie Ortiz,Principal Security,Morgan Chen,Security,
+Reese Nguyen,Security Analyst,Morgan Chen,Security,
+Avery Scott,Staff Security Research,Morgan Chen,Security,
+Quinn Walsh,Sr Staff Security Research,Morgan Chen,Security,
+Skyler Diaz,Sr SOC Analyst,Morgan Chen,Security,
+Emerson Cruz,Sr. Staff Security,Morgan Chen,Security,
+Rowan Flores,Sr SOC Analyst,Morgan Chen,Security,
+Parker Sullivan,Security Engineer,Morgan Chen,Security,
